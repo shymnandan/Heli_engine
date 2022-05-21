@@ -1,0 +1,372 @@
+@media (max-width:768px) {
+
+    .foot_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/half_globe.png");
+        background-size: cover;
+        position: relative;
+        min-height: 650px;
+        min-width: 100%;
+
+        /* Make image center */
+        background-position: center center;
+        /* Make image fixed */
+        /* background-attachment: fixed;   */
+        /* Not repeat images */
+        background-repeat: no-repeat;
+        /* Set background size auto */
+
+    }
+}
+
+
+.tsizeB {}
+
+
+@media only screen and (max-width:768px) {
+
+    .tsizeB {
+        font-size: x-small;
+
+    }
+
+}
+
+
+
+.helitext {
+    margin-top: 15%;
+    position: absolute;
+
+}
+
+
+
+@media (min-width:1705px) {
+    .head_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/Group+1.png");
+        background-size: cover;
+        position: relative;
+        min-height: 640px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+
+    }
+
+    .foot_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/24258350-removebg-1%401x.png");
+        background-size: cover;
+        position: relative;
+        min-height: 600px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .ftext {
+        margin-top: 16%;
+        margin-left: 14%;  /*ye wala*/
+        position: absolute;
+    }
+}
+
+@media (min-width:1400px) and (max-width:1704px) {
+
+    .head_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/Group+1.png");
+        background-size: cover;
+        position: relative;
+        min-height: 550px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .foot_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/24258350-removebg-1%401x.png");
+        background-size: cover;
+        position: relative;
+        min-height: 500px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .ftext {
+        margin-top: 12%;
+        margin-left: 12%;
+        position: absolute; /* ye wala */
+    }
+
+}
+
+
+
+@media (min-width:1200px) and (max-width:1400px) {
+
+    .head_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/Group+1.png");
+        background-size: cover;
+        position: relative;
+        min-height: 400px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+
+
+    }
+
+    .foot_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/24258350-removebg-1%401x.png");
+        background-size: cover;
+        position: relative;
+        min-height: 500px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .ftext {
+        margin-top: 15%;
+        margin-left: 4%;
+        position: absolute;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .head_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/Group+1.png");
+        background-size: cover;
+        position: relative;
+        min-height: 400px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+
+    }
+
+    .foot_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/24258350-removebg-1%401x.png");
+        background-size: cover;
+        position: relative;
+        min-height: 400px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .ftext {
+        margin-top: 10%;
+        margin-left: 3%;
+        position: absolute;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+
+    .head_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/Group+1.png");
+        background-size: cover;
+        position: relative;
+        min-height: 350px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+
+    }
+
+    .foot_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/half_globe.png");
+        background-size: cover;
+        position: relative;
+        min-height: 600px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .helitext {
+        margin-top: 10%;
+    }
+
+    .ftext {
+        margin-top: 5%;
+        margin-left: 6%;
+        position: absolute;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    .head_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/Group+1.png");
+        background-size: cover;
+        position: relative;
+        min-height: 250px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 100%;
+
+    }
+
+    .helitext {
+        margin-top: 12%;
+    }
+
+    .ftext {
+        margin-top: 8%;
+        margin-left: 8%;
+        position: absolute;
+    }
+
+}
+
+@media (max-width: 575px) {
+
+    .head_img {
+        background-image: url("https://heliai.s3.us-west-2.amazonaws.com/heli_engine_images/Group+1.png");
+        background-size: cover;
+        position: relative;
+        min-height: 170px;
+        min-width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+
+    }
+
+    .helitext {
+        margin-top: 5%;
+        margin-left: -10%;
+    }
+
+}
+
+
+
+
+
+
+
+
+.htext {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: normal;
+    color: #0f38c0;
+    text-decoration: #0f38c0;
+}
+
+
+/* .ftext {
+  margin-top: 17%;
+  margin-left: 8%;
+  position: absolute;
+} */
+
+/* @media only screen and (min-width:993px) {
+  .ftext {
+    margin-top: 22%;
+    margin-left: 8%;
+    position: absolute;
+  }
+
+}
+
+@media only screen and (min-width:993px) {
+  .ftext {
+    margin-top: 22%;
+    margin-left: 8%;
+    position: absolute;
+  }
+
+} */
+
+
+@media only screen and (max-width:576px) {
+    .ftext {
+        margin-top: 7%;
+        margin-left: -2%;
+        position: absolute;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+h2 {
+    font-size: 1.5rem;
+}
+
+@media (max-width: 544px) {
+    h2 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 768px) {
+    h2 {
+        font-size: 2.3rem;
+    }
+}
+
+@media (min-width: 992px) {
+    h2 {
+        font-size: 2.5rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    h2 {
+        font-size: 3rem;
+    }
+}
+
+
+@media (min-width: 950px) and (max-width:1100px) {
+    h2 {
+        font-size: 2.75rem;
+    }
+}
+
+
+@media (max-width: 991px) {
+
+    .ulbg {
+        width: 100%;
+        background-color: #fff;
+        z-index: 2;
+    }
+
+}
+
+.sub {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.heli {
+    font-family: Libre Baskerville;
+}
+
+@media (max-width:576px) {
+
+    .sub {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+
+}
